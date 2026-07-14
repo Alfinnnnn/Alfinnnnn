@@ -12,7 +12,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Alfinnnnn/Alfinnnnn/main/assets/lofi-banner.svg" width="100%"/>
+<img src="asset/lofi.gif" width="100%"/>
 <sub>🎧 pixel-art lo-fi desk — dashboard menyala, senja di jendela, playlist lofi jalan terus</sub>
 
 </div>
@@ -54,7 +54,7 @@ me.say_hi()
 
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+![Data Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 
 **Programming & Cloud**
@@ -66,6 +66,11 @@ me.say_hi()
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Apps Script](https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 </div>
 
@@ -74,8 +79,8 @@ me.say_hi()
 ### 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-stats-extended.vercel.app/api?username=Alfinnnnn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Alfinnnnn&layout=compact&theme=tokyonight&hide_border=true" width="35%" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Alfinnnnn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Alfinnnnn&layout=compact&theme=tokyonight&hide_border=true" width="35%" />
 </div>
 
 <div align="center">
