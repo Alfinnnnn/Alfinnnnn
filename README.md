@@ -2,11 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Surya%20Alfin%20Maoludin&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20%7C%20Computer%20Science%20Graduate&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Turning+Raw+Data+Into+Real+Decisions;Data+Analyst+%7C+BI+%7C+Automation;Ms. Excel+%E2%80%A2+Power+BI+%E2%80%A2+Looker+Studio+%E2%80%A2+Python+%E2%80%A2+SQL;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Turning+Raw+Data+Into+Real+Decisions;Data+Analyst+%7C+BI+%7C+Automation;Ms.+Excel+%E2%80%A2+Power+BI+%E2%80%A2+Looker+Studio+%E2%80%A2+Python+%E2%80%A2+SQL;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](<https://[linkedin.com/in/Alfinnnnn-LINKEDIN](https://www.linkedin.com/in/suryaalfinmaoludin/)>)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suryaalfinmaoludin/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://suryaalfinportof.vercel.app)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:surya.alvin33@gmail.com)
 
