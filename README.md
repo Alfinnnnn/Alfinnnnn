@@ -2,24 +2,23 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Surya%20Alfin%20Maoludin&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20%7C%20Computer%20Science%20Graduate&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Turning+Raw+Data+Into+Real+Decisions;Data+Analyst+%7C+BI+%7C+Automation;Ms.+Excel+%E2%80%A2+Power+BI+%E2%80%A2+Looker+Studio+%E2%80%A2+Python+%E2%80%A2+SQL;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Turning+Raw+Data+Into+Real+Decisions;Data+Analyst+%7C+BI+%7C+Automation;Ms. Excel+%E2%80%A2+Power+BI+%E2%80%A2+Looker+Studio+%E2%80%A2+Python+%E2%80%A2+SQL;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suryaalfinmaoludin/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](<https://[linkedin.com/in/Alfinnnnn-LINKEDIN](https://www.linkedin.com/in/suryaalfinmaoludin/)>)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://suryaalfinportof.vercel.app)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:surya.alvin33@gmail.com)
 
 <br/>
 
 <img src="asset/lofi.gif" width="100%"/>
-<sub>🎧 pixel-art lo-fi desk — dashboard menyala, senja di jendela, playlist lofi jalan terus</sub>
 
 </div>
 
 ---
 
-### 👋 Tentang Saya
+### 👋 About Me
 
 ```python
 class DataAnalyst:
@@ -29,7 +28,7 @@ class DataAnalyst:
         self.role = "Data Collector & Analyst @ PT Kreasi Edulab Indonesia"
         self.education = "B.Sc. Computer Science - Universitas Pendidikan Indonesia (GPA 3.79)"
         self.focus = ["Data Analysis", "Data Visualization", "Business Intelligence", "Automation"]
-        self.currently_learning = "SQL & Python untuk Data Science yang lebih dalam"
+        self.currently_learning = "Advanced AI concepts to build smarter data solutions"
 
     def say_hi(self):
         print("Mari ubah data mentah jadi insight yang actionable! 🚀")
@@ -38,7 +37,7 @@ me = DataAnalyst()
 me.say_hi()
 ```
 
-- 🔭 Saat ini sedang bekerja sebagai **Data Collector and Analyst** di **PT Kreasi Edulab Indonesia**, membangun dashboard revenue & monitoring user growth untuk aplikasi Velocity.
+- 🔭 Saat ini sedang bekerja sebagai **Data and Automation Specialist** di **PT Kreasi Edulab Indonesia**, membangun dashboard revenue & monitoring user growth untuk aplikasi Velocity.
 - 🌱 Berpengalaman melakukan data cleaning, verifikasi, dan validasi data skala besar (pernah mencapai **98% success rate** di proyek KESDM RI).
 - 🎓 Lulusan **Computer Science, Universitas Pendidikan Indonesia**, pernah menjadi Asisten Dosen Computer Networking.
 - 🤖 Pernah membangun **Capstone Project: AI-Based Fraud Detection System** menggunakan Microsoft Azure.
