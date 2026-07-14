@@ -2,17 +2,17 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Surya%20Alfin%20Maoludin&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20%7C%20Computer%20Science%20Graduate&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Turning+Raw+Data+Into+Real+Decisions;Data+Analyst+%7C+BI+%7C+Automation;Excel+%E2%80%A2+Power+BI+%E2%80%A2+Looker+Studio+%E2%80%A2+Python+%E2%80%A2+SQL;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Turning+Raw+Data+Into+Real+Decisions;Data+Analyst+%7C+BI+%7C+Automation;Ms. Excel+%E2%80%A2+Power+BI+%E2%80%A2+Looker+Studio+%E2%80%A2+Python+%E2%80%A2+SQL;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/GANTI-USERNAME-LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Alfinnnnn-LINKEDIN)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://GANTI-LINK-PORTOFOLIO.com)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:surya.alvin33@gmail.com)
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/GANTI-USERNAME/GANTI-USERNAME/main/assets/lofi-banner.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Alfinnnnn/Alfinnnnn/main/assets/lofi-banner.svg" width="100%"/>
 <sub>🎧 pixel-art lo-fi desk — dashboard menyala, senja di jendela, playlist lofi jalan terus</sub>
 
 </div>
@@ -74,34 +74,34 @@ me.say_hi()
 ### 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=GANTI-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GANTI-USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="35%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Alfinnnnn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alfinnnnn&layout=compact&theme=tokyonight&hide_border=true" width="35%" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GANTI-USERNAME&theme=tokyonight&hide_border=true" width="60%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alfinnnnn&theme=tokyonight&hide_border=true" width="60%" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GANTI-USERNAME&theme=tokyo-night&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Alfinnnnn&theme=tokyo-night&hide_border=true" width="100%" />
 </div>
 
 ---
 
 ### 🏆 Certifications
 
-| Sertifikasi | Tahun |
-|---|---|
-| Google Data Analyst Professional | 2025 |
-| Microsoft Certified: Azure Data Fundamentals | 2022 |
-| Microsoft Office Specialist: Word Associate (Office 2019) | 2023 |
+| Sertifikasi                                               | Tahun |
+| --------------------------------------------------------- | ----- |
+| Google Data Analyst Professional                          | 2025  |
+| Microsoft Certified: Azure Data Fundamentals              | 2022  |
+| Microsoft Office Specialist: Word Associate (Office 2019) | 2023  |
 
 ---
 
 ### 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/GANTI-USERNAME/GANTI-USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/Alfinnnnn/Alfinnnnn/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </div>
 
 ---
