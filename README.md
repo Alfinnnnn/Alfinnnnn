@@ -6,8 +6,8 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Alfinnnnn-LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://GANTI-LINK-PORTOFOLIO.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](<https://[linkedin.com/in/Alfinnnnn-LINKEDIN](https://www.linkedin.com/in/suryaalfinmaoludin/)>)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://suryaalfinportof.vercel.app)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:surya.alvin33@gmail.com)
 
 <br/>
@@ -74,8 +74,8 @@ me.say_hi()
 ### 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Alfinnnnn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alfinnnnn&layout=compact&theme=tokyonight&hide_border=true" width="35%" />
+<img src="https://github-stats-extended.vercel.app/api?username=Alfinnnnn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Alfinnnnn&layout=compact&theme=tokyonight&hide_border=true" width="35%" />
 </div>
 
 <div align="center">
