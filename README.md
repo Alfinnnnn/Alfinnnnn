@@ -100,16 +100,6 @@ me.say_hi()
 | Microsoft Certified: Azure Data Fundamentals              | 2022  |
 | Microsoft Office Specialist: Word Associate (Office 2019) | 2023  |
 
----
-
-### 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Alfinnnnn/Alfinnnnn/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</div>
-
----
-
 <div align="center">
 
 _"Data is only powerful when it turns into a decision."_
